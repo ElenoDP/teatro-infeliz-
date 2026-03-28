@@ -1,0 +1,4 @@
+Java JDK # Precisa disso pra funcionar
+
+javac Teatro.java 
+java Teatro 
